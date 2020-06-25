@@ -1,0 +1,92 @@
+[
+  {
+    "customer": "MDT",
+    "performance": [
+      {
+        "playId": "Гамлет",
+        "audience": 55,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Ромео и Джульетта",
+        "audience": 35,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 40,
+        "type": "comedy"
+      }
+    ]
+  },
+  {
+    "customer": "SomeName",
+    "performance": [
+      {
+        "playId": "Гамлет",
+        "audience": 50,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Ромео и Джульетта",
+        "audience": 60,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 800,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 50,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 112,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 101,
+        "type": "comedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 100,
+        "type": "comedy"
+      }
+    ]
+  }
+]
